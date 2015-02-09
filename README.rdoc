@@ -1,3 +1,0 @@
-Voteideal is a project which allow you to vote best ideals.
-It's developed in Rails.
-Link: http://voteideal.herokuapp.com
